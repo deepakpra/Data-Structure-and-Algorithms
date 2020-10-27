@@ -1,0 +1,8 @@
+# ignore all class files
+*.class
+*.exe
+
+.vscode
+launch.json
+Main.java
+tempCodeRunnerFile.java

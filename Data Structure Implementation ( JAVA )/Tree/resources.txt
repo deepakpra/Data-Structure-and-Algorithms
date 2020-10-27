@@ -1,0 +1,11 @@
+
+1) Binary tree traversal- breadth-first and depth-first strategies 
+    => https://www.youtube.com/watch?v=9RHO6jU--GU
+
+Two Types:-
+ 1) BFS or LEVEL ORDER TRAVERSAL (Traverse each vertex/node level by level) => Here we use Queue 
+  DS for storing children of a visited node so that we can traverse in level order.
+  
+ 2) DFS => i) PreOrder (NLR)   
+           ii) InOrder (LNR) 
+           iii) PostOrder (LRN)
